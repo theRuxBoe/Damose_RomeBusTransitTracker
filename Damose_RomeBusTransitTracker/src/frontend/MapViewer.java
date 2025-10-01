@@ -19,6 +19,7 @@ public class MapViewer {
 		frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 		frame.setVisible(true);
 		System.out.println("hello frame");
+		System.out.println("hello world");
 	}
 		
 	public static void main(String[] args) {
@@ -29,3 +30,4 @@ public class MapViewer {
 		
 		
 }
+
