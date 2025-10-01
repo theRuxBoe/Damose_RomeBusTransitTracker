@@ -18,6 +18,7 @@ public class MapViewer {
 		frame.pack();
 		frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 		frame.setVisible(true);
+		System.out.println("hello frame");
 	}
 		
 	public static void main(String[] args) {
